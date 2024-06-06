@@ -18,10 +18,5 @@ The [Multimodal Hate Speech Dataset](https://www.kaggle.com/datasets/victorcalle
 
 After training and testing the model, it achieved an accuracy of 93% in detecting hate speech.
 
-## Notebooks
-
-- [mmhs150k.ipynb](link_to_mmhs150k.ipynb)
-- [spotfake.ipynb](link_to_spotfake.ipynb)
-
 
 
