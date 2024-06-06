@@ -23,5 +23,5 @@ After training and testing the model, it achieved an accuracy of 93% in detectin
 - [mmhs150k.ipynb](link_to_mmhs150k.ipynb)
 - [spotfake.ipynb](link_to_spotfake.ipynb)
 
-Feel free to explore the notebooks for detailed implementation and results.
+
 
