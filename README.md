@@ -6,7 +6,7 @@ This project focuses on detecting hate speech in text using machine learning tec
 
 The project consists of two main notebooks:
 
-1. **mmhs150k.ipynb**: This notebook contains the data understanding, preprocessing, and model training process. It utilizes natural language processing techniques such as tokenization and leverages libraries like NLTK. Additionally, a BERT model is replicated using Python libraries and fine-tuned for hate speech detection.
+1. **mmhs150k.ipynb**: This notebook contains the data understanding, preprocessing, and model training process. It utilizes natural language processing techniques such as tokenization and leverages libraries like NLTK. Additionally, a BERT model is replicated using Python libraries like tensorflow, and fine-tuned for hate speech detection.
 
 2. **spotfake.ipynb**: In this notebook, the trained model from `mmhs150k.ipynb` is utilized for detecting hate speech in text. It includes tokenization and model evaluation steps.
 
